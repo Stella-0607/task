@@ -40,11 +40,11 @@
 结合完成前两个挑战的亲身经历，使用 Markdown 编写一份《医疗大模型新人快速上手指南》
 
 ## commit记录
-1.init:初始化项目，创建基础目录结构
-2.docs:新建README.md，编写项目简介
-3.feat:完成Task1_API，上传代码与抽取结果json文件
-4.data:上传心力衰竭临床数据集
-5.model:完成Task2模型训练与特征分析
-6.visual:生成热力图、ROC曲线等可视化结果
-7.paper:提交Task2论文报告
-8.docs:完善README，补充项目结构与运行说明
+1. init:初始化项目，创建基础目录结构
+2. docs:新建README.md，编写项目简介
+3. feat:完成Task1_API，上传代码与抽取结果json文件
+4. data:上传心力衰竭临床数据集
+5. model:完成Task2模型训练与特征分析
+6. visual:生成热力图、ROC曲线等可视化结果
+7. paper:提交Task2论文报告
+8. docs:完善README，补充项目结构与运行说明
