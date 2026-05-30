@@ -45,6 +45,6 @@
 3. feat:完成Task1_API，上传代码与抽取结果json文件
 4. data:上传心力衰竭临床数据集
 5. model:完成Task2模型训练与特征分析
-6. visual:生成热力图、ROC曲线等可视化结果
-7. paper:提交Task2论文报告
-8. docs:完善README，补充项目结构与运行说明
+6. visual:上传热力图、ROC曲线等可视化结果
+7. paper:提交Task2_paper论文报告，Task_3Guide医疗大模型新人快速上手指南
+8. docs:完善README，补充项目结构与任务说明
